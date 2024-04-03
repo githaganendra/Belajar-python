@@ -1,3 +1,8 @@
+# NIM      : 19235026
+# Nama     : Agitha Nupa Ganendra
+# Kelas    : 19.1A.24
+# Sistem Informasi
+
 #Latihan 1
 
 #Contoh Operasi Penugasan
