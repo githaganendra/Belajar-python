@@ -1,0 +1,8 @@
+Algoritma mencari kelereng
+1. Mulai
+2. Masukkan jumlah kelereng aldi
+3. Cari kelereng budi dengan cara kelereng aldi dikurangi 15
+4. Cari kelereng anto dengan cara kelereng aldi + kelereng budi * 2
+5. Cari kelereng agung dengan cara kelereng aldi + budi + anto - 5
+6. Cetak kelereng aldi, budi, anto, agung
+7. Selesai
